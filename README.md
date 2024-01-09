@@ -4,12 +4,12 @@ Este projeto foi desenvolvido durante o curso de Python no SENAI Jundiaí. O pri
 
 O projeto utiliza diversas ferramentas e conceitos do Python, incluindo:
 
-- Criação de funções
-- Loops
-- Tratamento de exceções
-- Iterações
-- Importação de funções de outras bibliotecas
-- Entrada de usuários
+- Criação de funções;
+- Loops;
+- Tratamento de exceções;
+- Iterações;
+- Importação de funções de outras bibliotecas;
+- Entrada de usuários;
 ---------------------------------------------------------------------------------------------------------------
 This project was developed during the Python course at SENAI Jundiaí. The main objective was to apply the knowledge acquired in the classes until the project's date, resulting in a Tic-Tac-Toe game where the player can face the machine, with possible outcomes of victory, defeat, or a draw.
 
